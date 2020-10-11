@@ -88,7 +88,7 @@ TỔ YẾN & SỨC KHỎE
    :glob:
    :caption: THUỐC TRỊ ĐAU NHỨC XƯƠNG KHỚP HIỆU QUẢ MÀ AN TOÀN
 
-   09-thuoc-dau-nhuc-xuong-khop
+   thuoc-dau-nhuc-xuong-khop
    
    
 
