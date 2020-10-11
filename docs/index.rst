@@ -12,14 +12,6 @@ TỔ YẾN & SỨC KHỎE
 
    01-cong-dung-tu-yen
    
-.. _xuongkhopth1:
-
-   .. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: THUỐC TRỊ ĐAU NHỨC XƯƠNG KHỚP HIỆU QUẢ MÀ AN TOÀN
-
-   09-thuoc-dau-nhuc-xuong-khop
 
 .. _toyenvoiphunu:
 
@@ -91,6 +83,13 @@ TỔ YẾN & SỨC KHỎE
 .. note:: Liên hệ Ms.Trang - Điện thoại: 0933764566
 .. image:: /img/yen06.jpg
 
+.. _xuongkhopth1:
 
+   .. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: THUỐC TRỊ ĐAU NHỨC XƯƠNG KHỚP HIỆU QUẢ MÀ AN TOÀN
+
+   09-thuoc-dau-nhuc-xuong-khop
 
 
