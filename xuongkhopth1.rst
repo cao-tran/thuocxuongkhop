@@ -260,6 +260,11 @@ Thuốc kháng viêm không chứa Steroid như Ibuprofen, Naproxen, Piroxicam�
 
 <a class="reference external" href="https://www.sphinx-doc.org/en/master/usage/extensions/index.html" title="(in Sphinx v4.0.0+)"><span class="xref std std-doc">extensions</span></a>
 
+Currently this document draws from the contribution documentation for a handful
+of related Python open source projects: `Fabric <http://fabfile.org>`_, `Invoke
+<http://pyinvoke.org>`_, `Paramiko <http://paramiko.org>`_, etc.
+
+`thuốc xương khớp malaysia <http://caycohoaqua.webflow.io/posts/mujarhabat-kapsul-thuoc-xuong-khop-malaysia>`_
 
 .. note:: Liên hệ Thảo mộc HHT - Điện thoại: 0964.421.551
 .. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-xanh (7)
