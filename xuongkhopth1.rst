@@ -1,7 +1,7 @@
 THUỐC TRỊ ĐAU NHỨC XƯƠNG KHỚP HIỆU QUẢ MÀ AN TOÀN
 ========
 
-.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do-(12)
+.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do-(12).jpg
 
 Hỏi: Tôi năm nay trên 60 tuổi, mắc căn bệnh đau nhức lưng ê ẩm, đặc biệt là trở trời hay lúc lạnh Không biết có thuốc trị đau nhức xương khớp nào hàng đầu không nhỉ khi đầu tôi nghĩ là do mình ngồi khá nhiều và có tuổi buộc phải mắc như thế. Thế nhưng mấy năm nay bệnh càng ngày căn bệnh càng trầm trọng hơn. Mới đây nhất tôi đi thăm khám bệnh bác sĩ có chuẩn đoán là tôi đang mắc bệnh thoái hóa cột sống cũng như cho 1 đống thuốc tây về dùng mặc dù vậy chỉ đỡ được vài hôm hết lại đau. Nghe kết quả xong cũng buồn cũng như lo lắng vô cùng vì căn bệnh này tương đối khó khám khỏi. Tôi muốn xin mọi người lời khuyên để trị tốt hơn cũng như học kinh nghiệm của người đã mắc như tôi. Tôi trước đi làm cho là dân văn phòng ngồi khá nhiều cần xương khớp thoái hoá nhanh hay sao ấy.
 Trả lời: Đau nhức xương khớp là biểu hiện hay thấy ở người già do tác động của quá trình lão hóa diễn ra bên trong cơ thể, làm cho xương khớp dần lão hóa cũng như trở nên yếu dần. Một số cơn đau nhức xảy ra gây nên tác động khá lớn đến chất lượng giấc ngủ của người già cũng như chức năng vận động phổ thông. Dưới đây là những sản phẩm thuốc khám đau nhức xương khớp dành riêng cho người già bạn có khả năng Cùng tìm hiểu.
