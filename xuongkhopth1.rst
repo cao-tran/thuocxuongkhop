@@ -256,10 +256,10 @@ Thuốc kháng viêm không chứa Steroid như Ibuprofen, Naproxen, Piroxicam�
 
 
 
- .. raw:: html
+.. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Xipxd6D0v4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Xipxd6D0v4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 
