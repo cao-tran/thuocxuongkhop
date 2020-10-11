@@ -34,7 +34,7 @@ Thành phần của thuốc bao gồm: Sâm Malaysia, Ngũ gia bì, Bạch thư�
 
 Với những thành phần tự nhiên bổ dưỡng như trên, thuốc chữa viêm khớp của Malaysia Mujarhabat Kapsul mang lại công dụng:
  
-.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(17)
+.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(17).jpg
 
 Cách dùng: Sử dụng theo đường uống, dùng sau bữa ăn, 1-2 viên/ngày với trường hợp đau nhẹ, 2-4 viên/ngày với trường hợp đau nặng. Khi đã giảm đau thì dùng 1 viên/ ngày.
 
@@ -43,7 +43,7 @@ Giá thành tham khảo: Thuốc chữa bệnh đau nhức xương khớp Viêm 
 Liên hệ mua thuốc xương khớp malaysia
 Điện thoại: 0964.421.551
 
-.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(9)
+.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(9).jpg
 
 
 1. Thuốc Jex Max của Mỹ chữa bệnh (đau nhức xương khớp)(https://johnallencassady.com/thuoc-xuong-khop-malaysia/)
