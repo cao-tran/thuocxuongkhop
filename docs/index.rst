@@ -11,6 +11,16 @@ TỔ YẾN & SỨC KHỎE
    :glob:
 
    01-cong-dung-tu-yen
+   
+.. _xuongkhopth1:
+
+   .. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: THUỐC CHỮA ĐAU NHỨC XƯƠNG KHỚP NÀO TỐT
+
+   09-thuoc-dau-nhuc-xuong-khop
+   
 
 .. _toyenvoiphunu:
 
