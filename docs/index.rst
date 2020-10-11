@@ -17,10 +17,9 @@ TỔ YẾN & SỨC KHỎE
    .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: THUỐC CHỮA ĐAU NHỨC XƯƠNG KHỚP NÀO TỐT
+   :caption: THUỐC TRỊ ĐAU NHỨC XƯƠNG KHỚP HIỆU QUẢ MÀ AN TOÀN
 
    09-thuoc-dau-nhuc-xuong-khop
-   
 
 .. _toyenvoiphunu:
 
@@ -91,5 +90,7 @@ TỔ YẾN & SỨC KHỎE
 
 .. note:: Liên hệ Ms.Trang - Điện thoại: 0933764566
 .. image:: /img/yen06.jpg
+
+
 
 
