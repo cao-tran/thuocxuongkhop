@@ -79,16 +79,18 @@ TỔ YẾN & SỨC KHỎE
    :caption: CÁC CÂU HỎI THƯỜNG GẶP VỀ YẾN SÀO
 
    99-cau-hoi-ve-yen
+   
+   
+   .. _xuongkhopth1:
 
-
-.. _xuongkhopth1:
-
-   .. toctree::
+.. toctree::
    :maxdepth: 2
    :glob:
    :caption: THUỐC TRỊ ĐAU NHỨC XƯƠNG KHỚP HIỆU QUẢ MÀ AN TOÀN
 
    09-thuoc-dau-nhuc-xuong-khop
+   
+   
 
 .. note:: Liên hệ Ms.Trang - Điện thoại: 0933764566
 .. image:: /img/yen06.jpg
