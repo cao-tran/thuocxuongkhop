@@ -256,6 +256,8 @@ Thuốc kháng viêm không chứa Steroid như Ibuprofen, Naproxen, Piroxicam�
 
 <a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" href="https://www.youtube.com/watch?v=oJsUvBQyHBs">Sphinx &amp; Read the Docs</a>
 
+<iframe width="100%" height="350" src="https://www.youtube-nocookie.com/embed/oJsUvBQyHBs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
 <a class="reference external" href="https://www.sphinx-doc.org/en/master/usage/extensions/index.html" title="(in Sphinx v4.0.0+)"><span class="xref std std-doc">extensions</span></a>
 
 
