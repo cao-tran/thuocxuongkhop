@@ -80,8 +80,6 @@ TỔ YẾN & SỨC KHỎE
 
    99-cau-hoi-ve-yen
 
-.. note:: Liên hệ Ms.Trang - Điện thoại: 0933764566
-.. image:: /img/yen06.jpg
 
 .. _xuongkhopth1:
 
@@ -92,4 +90,6 @@ TỔ YẾN & SỨC KHỎE
 
    09-thuoc-dau-nhuc-xuong-khop
 
+.. note:: Liên hệ Ms.Trang - Điện thoại: 0933764566
+.. image:: /img/yen06.jpg
 
