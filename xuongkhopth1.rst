@@ -254,6 +254,8 @@ các người mắc đau khớp dai dẳng cần dùng các mẫu thuốc kháng
 •	Thuốc kháng viêm không Steroid
 Thuốc kháng viêm không chứa Steroid như Ibuprofen, Naproxen, Piroxicam… cũng được sử dụng cho trường hợp đau xương khớp mãn tính. Tuy nhiên, các loại thuốc này bắt buộc phối hợp với nhóm thuốc bớt đau nhức hoặc thuốc giãn cơ có công dụng giảm đau nhức để giảm bớt liều lượng của thuốc kháng viêm (uống liều lượng thuốc kháng viêm cao không chất lượng cho sức khỏe).
 
+<a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" href="https://www.youtube.com/watch?v=oJsUvBQyHBs">Sphinx &amp; Read the Docs</a>
+
 
 .. note:: Liên hệ Thảo mộc HHT - Điện thoại: 0964.421.551
 .. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-xanh (7)
