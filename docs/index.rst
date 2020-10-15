@@ -69,7 +69,7 @@ NGUYÊN NHÂN ĐAU NHỨC XƯƠNG KHỚP
 
    07-yen-sao-cho-tre-em
 
-.. image:: /img/yen42.jpg
+.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(9).jpg
 
 .. _question:
 
@@ -92,6 +92,6 @@ NGUYÊN NHÂN ĐAU NHỨC XƯƠNG KHỚP
    
    
 
-.. note:: Liên hệ Ms.Trang - Điện thoại: 0933764566
-.. image:: /img/yen06.jpg
+.. note:: Liên hệ Thảo mộc HHT - Điện thoại: 0964.421.551  hoặc 0932.340.345
+.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(9).jpg
 
