@@ -44,7 +44,7 @@ Video:
 
 
 .. note:: Liên hệ Thảo mộc HHT - Điện thoại: 0964.421.551 - 0932.340.345
-.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(9)jpg
+.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(9).jpg
 
 #trích nguồn từ internet
 
