@@ -41,7 +41,14 @@ Cách chữa đau nhức xương khớp bằng thảo dược
 Cách chữa đau nhức xương khớp bằng thuốc xương khớp malaysia
 
 Video: 
+.. raw:: html
 
+    <div style="text-align: center; margin-bottom: 2em;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Xipxd6D0v4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+
+`thuốc xương khớp malaysia <http://caycohoaqua.webflow.io/posts/mujarhabat-kapsul-thuoc-xuong-khop-malaysia>`_
 
 .. note:: Liên hệ Thảo mộc HHT - Điện thoại: 0964.421.551 - 0932.340.345
 .. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(9).jpg
