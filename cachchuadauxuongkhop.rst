@@ -16,7 +16,7 @@ và nhu cầu của người bệnh
 Xin kể ra dưới đây một số cách chữa bệnh đau nhức xương khớp bằng thảo dược để quý khách chọn lựa
 
 
-1. Thuốc xương khớp màu đỏ của Malaysia màu đỏ
+1. Thuốc xương khớp của Malaysia màu đỏ
 --------
 Đây là loại thuốc chế sẵn thành viên của malaysia, rất dễ sử dụng và tiện lợi. Thuốc này 
 còn có các tên gọi khác như:
@@ -72,6 +72,7 @@ Quý khách đặt bài thuốc nguồn gốc độc hoạt tang ký sinh vui l�
 
 
 3. Thuốc bột, thuốc sắc nguồn gốc từ bài thuốc độc hoạt tang ký sinh
+-----------
 
 + Độc hoạt            12 gam.
 + Tang ký sinh        16-40 gam.
@@ -161,7 +162,7 @@ Mời các bạn xem video
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/znCr9dSEUhY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   <iframe width="560" height="315" src="https://www.youtube.com/embed/Xipxd6D0v4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/znCr9dSEUhY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
     </div>
 
 
@@ -173,13 +174,13 @@ Mời các bạn xem video
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/UdpdQ-ZfmhE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    <iframe width="560" height="315" src="https://www.youtube.com/embed/Xipxd6D0v4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UdpdQ-ZfmhE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
     </div>
 
 
 
 .. note:: Liên hệ Thảo mộc HHT - Điện thoại: 0964.421.551
-.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-xanh (7)
+.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do-(26).jpg
 
 6. Các bài viết khác có thể bạn chưa xem
 ---------
