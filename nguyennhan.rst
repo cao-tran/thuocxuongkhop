@@ -29,8 +29,8 @@ Do nguyên nhân khác: thời tiết lạnh, tập thể thao quá mức, lao �
 Có nhiều cách chữa trị đau nhức xương khớp, theo chúng tôi tùy từng chứng bệnh cụ thể mà có những phương pháp điều trị riêng
 Nếu chỉ đau nhức mà vẫn vận động làm việc được thì nên dùng thuốc xoa bóp hoặc bấm huyệt, hoặc thủy châm, hoặc châm cứu
 Trường hợp đau nhức mà vẫn đi làm được thì bạn nên dùng thuốc xương khớp của malaysia
-Xem:
-_`thuốc xương khớp malaysia <http://caycohoaqua.webflow.io/posts/mujarhabat-kapsul-thuoc-xuong-khop-malaysia>`_
+Xem
+`thuốc xương khớp malaysia <http://caycohoaqua.webflow.io/posts/mujarhabat-kapsul-thuoc-xuong-khop-malaysia>`_
 
 .. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(25).jpg
 
@@ -40,7 +40,7 @@ Xem tiếp bài viết
 Cách chữa đau nhức xương khớp bằng thảo dược
 Cách chữa đau nhức xương khớp bằng thuốc xương khớp malaysia
 
-Video:
+Video
 
 .. raw:: html
 
