@@ -1,16 +1,16 @@
 
-TỔ YẾN & SỨC KHỎE
+ĐAU NHỨC XƯƠNG KHỚP & CÁCH CHỮA
 ==================================================
 
-.. image:: /img/yen43.png
+.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do (21).jpg
 
-.. _toyen:
+.. _nguyen-nhan-dan-den-dau-nhuc-xuong-khop:
 
 .. toctree::
    :maxdepth: 2
    :glob:
 
-   01-cong-dung-tu-yen
+nguyen-nhan-dan-den-dau-nhuc-xuong-khop
    
 
 .. _toyenvoiphunu:
