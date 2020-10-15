@@ -13,25 +13,34 @@ Dưới đây là những sản phẩm thuốc khám đau nhức xương khớp 
 Các triệu chứng của cơn đau nhức xương khớp ở người già
 --------
 Mức độ đau nhức xương khớp ở người già có thể khác nhau, nhưng lúc cơn đau xuất hiện đều sẽ mang theo các triệu chứng và đặc trưng dưới đây:
+
 +	lúc ấn vào một số khớp cảm thấy nhói đau.
+
 +	Tê mỏi cũng như cứng cơ khiến cho cử động không linh hoạt.
+
 +	Cơ thể mệt mỏi cũng như ngủ không yên giấc.
+
 +	Khớp bị sưng, đỏ và nóng.
+
 +	vùng khớp đau nhức bị ngứa gây ra cảm giác tương đối khó chịu.
+
 +	Lực vận động mắc suy giảm.
 
-Những Loại thuốc trị đau nhức xương khớp cho già và trẻ
+
+Những Loại thuốc xương khớp mà tôi thất tốt nhất từ trước tới nay
 --------
-Loại thuốc xương khớp mà tôi thất tốt nhất từ trước tới nay là
+1. Thuốc xương khớp malaysia 
 --------
-1. Thuốc xương khớp malaysia
---------
-Viên uống - (thuốc xương khớp malaysia)(http://caycohoaqua.webflow.io/posts/mujarhabat-kapsul-thuoc-xuong-khop-malaysia) được sản xuất bởi Malaysia , đây là sản phẩm có lợi ích đẩy lùi trường hợp đau nhức xương khớp ở người già vô cùng an toàn cũng như hiệu quả cho người sử dụng
+Viên uống - _'(thuốc xương khớp malaysia)(http://caycohoaqua.webflow.io/posts/mujarhabat-kapsul-thuoc-xuong-khop-malaysia)'_ được sản xuất bởi Malaysia , đây là sản phẩm có lợi ích đẩy lùi trường hợp đau nhức xương khớp ở người già, an toàn cũng như hiệu quả cho người sử dụng
 
 Viên uống Mujarhabat Kapsul
+
  Là sản phẩm được người tiêu dùng Malaysia tin dùng, thành phần chính là các loại thảo dược thiên nhiên, an toàn cho người sử dụng:
+ 
  Công dụng: chữa đau nhức xương khớp, hỗ trợ điều trị thoái hóa đốt sống, giảm đau lưng, điều trị đau thần kinh tọa.
+ 
   Mujarhabat Kapsul
+  
 Mujarhabat Kapsul, được biết đến rộng rãi tại Việt Nam với tên “Thuốc xương khớp Malaysia Đỏ”. Thuốc được bào chế hoàn toàn từ 100% thảo dược Malaysia, sản xuất theo công nghệ tiên tiến của Đức và được đánh giá là sản phẩm đông y hàng đầu trong điều trị bệnh lý xương khớp của Malaysia.
 
 Thành phần của thuốc bao gồm: Sâm Malaysia, Ngũ gia bì, Bạch thược, Phòng phong, Tần giao, Đỗ trọng, Quế chi, Sinh khương, Ngưu tất, Cam thảo, Đại táo, Nhũ hương, Lộc nhung và Tục đoạn.
@@ -42,7 +51,9 @@ Với những thành phần tự nhiên bổ dưỡng như trên, thuốc chữa
 
 Cách dùng: Sử dụng theo đường uống, dùng sau bữa ăn, 1-2 viên/ngày với trường hợp đau nhẹ, 2-4 viên/ngày với trường hợp đau nặng. Khi đã giảm đau thì dùng 1 viên/ ngày.
 
-Giá thành tham khảo: Thuốc chữa bệnh đau nhức xương khớp Viêm khớp Tâm Bình được bán trên thị trường với chi phí khoảng 100.000 VNĐ/hộp.
+Giá bán thuốc xương khớp malaysia 
+-------
+Thuốc chữa bệnh đau nhức xương khớp malaysia được bán 100.000 VNĐ/hộp.
 
 Liên hệ mua thuốc xương khớp malaysia
 Điện thoại: 0964.421.551
@@ -50,9 +61,10 @@ Liên hệ mua thuốc xương khớp malaysia
 .. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(9).jpg
 
 
-1. Thuốc Jex Max của Mỹ chữa bệnh (đau nhức xương khớp)(https://johnallencassady.com/thuoc-xuong-khop-malaysia/)
+2. Thuốc Jex Max của Mỹ chữa bệnh _'(đau nhức xương khớp)(https://johnallencassady.com/thuoc-xuong-khop-malaysia/)'_
 --------
 Jex Max là thuốc thăm khám đau nhức xương khớp dành cho người già hàng đầu của Mỹ, sản phẩm được nghiên cứu và sản xuất bởi công ty Công ty St-Paul Brands. Viên uống Jex Max là sự quan hệ của khá nhiều mẫu thảo dược quý giá trong tự nhiên với các dưỡng chất sinh học có trong thế hệ mới, bởi vì vậy sản phẩm đã mang lại thành công giảm đau nhức khá tốt cũng như đảm bảo đối với người già.
+
 Thành phần:
 + Peptan
 +	Undernatured type II collagen
@@ -60,6 +72,7 @@ Thành phần:
 +	White Willow Bark
 +	Chondroitin Sulfate
 +	…
+
 Công dụng:
 +	Thắc mắc các dưỡng chất cần thiết để tái tạo lại những sụn khớp bị tổn thương cũng như nuôi dưỡng chúng trở buộc phải chắc khỏe hơn, từ đó những khớp xương sẽ hoạt động chắc khỏe và dẻo dai hơn.
 +	Sản phẩm có tác dụng phòng nguy cơ mắc một số bệnh lý về xương khớp ở người già thêm như loãng xương, thoái hóa khớp,…
