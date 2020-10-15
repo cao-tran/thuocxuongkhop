@@ -4,13 +4,13 @@ TỔ YẾN & SỨC KHỎE
 
 .. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(17).jpg
 
-.. _nguyen-nhan:
+.. _nguyennhan:
 
 .. toctree::
    :maxdepth: 2
    :glob:
 
-   nguyen-nhan
+   nguyennhan
    
 
 .. _toyenvoiphunu:
