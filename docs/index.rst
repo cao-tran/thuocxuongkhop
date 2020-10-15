@@ -1,5 +1,5 @@
 
-TỔ YẾN & SỨC KHỎE
+NGUYÊN NHÂN ĐAU NHỨC XƯƠNG KHỚP
 ==================================================
 
 .. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(17).jpg
@@ -10,7 +10,7 @@ TỔ YẾN & SỨC KHỎE
    :maxdepth: 2
    :glob:
 
-   nguyennhan
+   nguyen-nhan-den-dau-nhuc-xuong-khop
    
 
 .. _toyenvoiphunu:
