@@ -32,7 +32,7 @@ Trường hợp đau nhức mà vẫn đi làm được thì bạn nên dùng th
 Xem:
 _`thuốc xương khớp malaysia <http://caycohoaqua.webflow.io/posts/mujarhabat-kapsul-thuoc-xuong-khop-malaysia>`_
 
-.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do (25).jpg
+.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(25).jpg
 
 Nếu bị mức mà không vận động được thì nên kết hợp các bài thuốc để chữa trị: Như uống thuốc, châm cứu, thủy châm, đắp thuốc, xoa bóp, bấm huyệt
 
