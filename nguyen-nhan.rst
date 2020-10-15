@@ -1,7 +1,8 @@
-CÔNG DỤNG TỪ YẾN
+NGUYÊN NHÂN GÂY ĐAU NHỨC XƯƠNG KHỚP CÔNG DỤNG TỪ YẾN
 ========
 
 .. image:: /img/yen39.jpg
+.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(17).jpg
 
 Thành phần, công dụng của Tổ Yến
 --------
