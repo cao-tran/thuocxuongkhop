@@ -3,8 +3,12 @@ THUỐC TRỊ ĐAU NHỨC XƯƠNG KHỚP HIỆU QUẢ MÀ AN TOÀN
 
 .. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do-(12).jpg
 
-Hỏi: Tôi năm nay trên 60 tuổi, mắc căn bệnh đau nhức lưng ê ẩm, đặc biệt là trở trời hay lúc lạnh Không biết có thuốc trị đau nhức xương khớp nào hàng đầu không nhỉ khi đầu tôi nghĩ là do mình ngồi khá nhiều và có tuổi buộc phải mắc như thế. Thế nhưng mấy năm nay bệnh càng ngày căn bệnh càng trầm trọng hơn. Mới đây nhất tôi đi thăm khám bệnh bác sĩ có chuẩn đoán là tôi đang mắc bệnh thoái hóa cột sống cũng như cho 1 đống thuốc tây về dùng mặc dù vậy chỉ đỡ được vài hôm hết lại đau. Nghe kết quả xong cũng buồn cũng như lo lắng vô cùng vì căn bệnh này tương đối khó khám khỏi. Tôi muốn xin mọi người lời khuyên để trị tốt hơn cũng như học kinh nghiệm của người đã mắc như tôi. Tôi trước đi làm cho là dân văn phòng ngồi khá nhiều cần xương khớp thoái hoá nhanh hay sao ấy.
-Trả lời: Đau nhức xương khớp là biểu hiện hay thấy ở người già do tác động của quá trình lão hóa diễn ra bên trong cơ thể, làm cho xương khớp dần lão hóa cũng như trở nên yếu dần. Một số cơn đau nhức xảy ra gây nên tác động khá lớn đến chất lượng giấc ngủ của người già cũng như chức năng vận động phổ thông. Dưới đây là những sản phẩm thuốc khám đau nhức xương khớp dành riêng cho người già bạn có khả năng Cùng tìm hiểu.
+Hỏi: Tôi năm nay trên 60 tuổi, mắc căn bệnh đau nhức lưng ê ẩm, đặc biệt là trở trời hay lúc lạnh Không biết có thuốc trị đau nhức xương khớp nào hàng đầu không nhỉ khi đầu tôi nghĩ là do mình ngồi khá nhiều và có tuổi buộc phải mắc như thế. 
+Thế nhưng mấy năm nay bệnh càng ngày căn bệnh càng trầm trọng hơn. Mới đây nhất tôi đi thăm khám bệnh bác sĩ có chuẩn đoán là tôi đang mắc bệnh thoái hóa cột sống cũng như cho 1 đống thuốc tây về dùng mặc dù vậy chỉ đỡ được vài hôm hết lại đau. 
+Nghe kết quả xong cũng buồn cũng như lo lắng vô cùng vì căn bệnh này tương đối khó khám khỏi. Tôi muốn xin mọi người lời khuyên để trị tốt hơn cũng như học kinh nghiệm của người đã mắc như tôi. Tôi trước đi làm cho là dân văn phòng ngồi khá nhiều cần xương khớp thoái hoá nhanh hay sao ấy.
+
+Trả lời: Đau nhức xương khớp là biểu hiện hay thấy ở người già do tác động của quá trình lão hóa diễn ra bên trong cơ thể, làm cho xương khớp dần lão hóa cũng như trở nên yếu dần. Một số cơn đau nhức xảy ra gây nên tác động khá lớn đến chất lượng giấc ngủ của người già cũng như chức năng vận động phổ thông. 
+Dưới đây là những sản phẩm thuốc khám đau nhức xương khớp dành riêng cho người già bạn có khả năng Cùng tìm hiểu.
 
 Các triệu chứng của cơn đau nhức xương khớp ở người già
 --------
@@ -50,22 +54,22 @@ Liên hệ mua thuốc xương khớp malaysia
 --------
 Jex Max là thuốc thăm khám đau nhức xương khớp dành cho người già hàng đầu của Mỹ, sản phẩm được nghiên cứu và sản xuất bởi công ty Công ty St-Paul Brands. Viên uống Jex Max là sự quan hệ của khá nhiều mẫu thảo dược quý giá trong tự nhiên với các dưỡng chất sinh học có trong thế hệ mới, bởi vì vậy sản phẩm đã mang lại thành công giảm đau nhức khá tốt cũng như đảm bảo đối với người già.
 Thành phần:
-•	Peptan
-•	Undernatured type II collagen
-•	Turmeric Extract
-•	White Willow Bark
-•	Chondroitin Sulfate
-•	…
++ Peptan
++	Undernatured type II collagen
++	Turmeric Extract
++	White Willow Bark
++	Chondroitin Sulfate
++	…
 Công dụng:
-•	Thắc mắc các dưỡng chất cần thiết để tái tạo lại những sụn khớp bị tổn thương cũng như nuôi dưỡng chúng trở buộc phải chắc khỏe hơn, từ đó những khớp xương sẽ hoạt động chắc khỏe và dẻo dai hơn.
-•	Sản phẩm có tác dụng phòng nguy cơ mắc một số bệnh lý về xương khớp ở người già thêm như loãng xương, thoái hóa khớp,…
++	Thắc mắc các dưỡng chất cần thiết để tái tạo lại những sụn khớp bị tổn thương cũng như nuôi dưỡng chúng trở buộc phải chắc khỏe hơn, từ đó những khớp xương sẽ hoạt động chắc khỏe và dẻo dai hơn.
++	Sản phẩm có tác dụng phòng nguy cơ mắc một số bệnh lý về xương khớp ở người già thêm như loãng xương, thoái hóa khớp,…
 phương pháp dùng:
-•	Uống 1 viên vào sau bữa ăn, hàng ngày sử dụng khoảng 2 viên sau bữa ăn sáng cũng như chiều.
-•	nếu mắc đau nhức ở mức độ nặng bạn có thể sử dụng khoảng 3 viên/ngày.
++	Uống 1 viên vào sau bữa ăn, hàng ngày sử dụng khoảng 2 viên sau bữa ăn sáng cũng như chiều.
++	nếu mắc đau nhức ở mức độ nặng bạn có thể sử dụng khoảng 3 viên/ngày.
 Giá thành tham khảo: Thuốc thăm khám đau nhức xương khớp Jex Max dành cho người già của Mỹ được bán trên thị trường với mức phí khoảng 340.000 VNĐ/hộp.
 
 Thuốc Jex Max của Mỹ chữa bệnh đau nhức xương khớp
-*  Có thể bạn tìm hiễu thuốc xoa bop trị đau nhức hiệu quả trong 30 phút cho bạn tham khảo:
++  Có thể bạn tìm hiễu thuốc xoa bop trị đau nhức hiệu quả trong 30 phút cho bạn tham khảo:
 Thuốc xoa bóp trị Đau nhức xương khớp TIPUTA <<< | Thương hiệu uy tín 3 miền được HTV trao tặng  giảm đau nhức xương khớp
 2. Viên sủi đặc chữa bệnh đau nhức xương khớp Gen S Effer
 --------
@@ -75,18 +79,19 @@ Viên khớp dạng sủi Gen S Effer là sự quan hệ hoàn hảo giữa các
 Thành phần
 Gen S Effer thành phần 100% tự nhiên với sự quan hệ từ các hoạt chất hỗ trợ xương khớp hiệu quả nhất trên thế giới trong đấy có SỤN VI CÁ MẬP cùng những dược liệu Đông y quý hiếm
 Thành Phần trong mỗi viên xương khớp Gen S Effer :
-•	Glucosamin HCL: 200mg
-•	Collagen type II: 50mg
-•	Cao khô nhũ hương: 20mg
-•	Methyl sulfonyl methan: 10mg
-•	Chondroitin sulfat: 10mg
-•	Cao bạch quả: 10mg
-•	Magie oxide: 10mg
-•	Phụ liệu: vừa đủ 1 viên
++	Glucosamin HCL: 200mg
++	Collagen type II: 50mg
++	Cao khô nhũ hương: 20mg
++	Methyl sulfonyl methan: 10mg
++	Chondroitin sulfat: 10mg
++	Cao bạch quả: 10mg
++	Magie oxide: 10mg
++	Phụ liệu: vừa đủ 1 viên
 
 Viên sủi đặc chữa bệnh đau nhức xương khớp Gen S Effer
 công dụng
 Với sự quan hệ tuyệt vời của một số dược liệu quý tự nhiên không lợi ích phụ, sản phẩm viên khớp Gen S Effer đem đến một số tác dụng như:
+
 •	Giúp bổ sung dưỡng chất cho khớp, hỗ trợ làm trơn ổ khớp & giúp khớp vẫn động linh hoạt
 •	Giúp thông kinh lạc, giúp giảm tê bì chân tay, đau mỏi vai gáy, trừ phong tê không tốt.
 •	hỗ trợ giảm những cơn đau nhức do xương khớp gây ra giúp vân động dễ dàng hơn
@@ -96,6 +101,7 @@ Theo đánh giá từ một số giới chuyên môn và đời thực thời k�
 cách dùng
 •	Hoà tan 1 viên sủi với 100ml nước rồi uống
 •	sử dụng 1 viên/lần sau ăn 30 phút, 2 lần/ngày
+
 Giá bán
 Viên sủi xương khớp Gen S Effer có giá niêm yết là 1.700.000đ / hộp 20 viên.
 Nằm trong thời gian ra mắt tại thị trường Việt Nam, nhà sản xuất tặng ưu đãi giảm 50% từ 1.700.000 VND => 850.000 VND/hộp. Mua 2 tặng 1 Kèm theo chương trình Freeship toàn quốc
@@ -106,6 +112,7 @@ Nằm trong thời gian ra mắt tại thị trường Việt Nam, nhà sản xu
 Thành phần:
 Viên uống Khớp Khang Thọ được điều chế hoàn toàn từ những dòng thảo dược quý trong tự nhiên. Điển hình như: ngũ gia bì, kê huyết trắng, uy linh tiên, tang ký sinh, độc hoạt gia tăng ký sinh …
 Công dụng:
+
 •	Khoanh tại vùng và làm cho sạch ổ viêm, giảm nhanh chóng một số cơn đau xương khớp.
 •	gia tăng sức đề kháng, khai thông khí huyết giúp cải thiện hiện tượng sưng đau, bầm tím, viêm, bong gân do chấn thương.
 •	hỗ trợ chữa bệnh những căn bệnh thoái hóa khớp, viêm xương khớp, viêm khớp dạng thấp, thoát vị đĩa đệm …
@@ -113,6 +120,7 @@ Công dụng:
 •	Ổn định tình huống sức khỏe xương khớp, phòng ngừa tái phát trở lại.
 
 Khang Thọ Gold giảm đau nhức xương khớp
+
 4. Glucosamine Orihiro trị xương khớp nhật
 --------
 Thuốc chữa đau nhức xương khớp Glucosamine Orihiro dành cho người già có nguồn gốc xuất xứ từ Nhật
@@ -136,6 +144,7 @@ Giá thành tham khảo: Thuốc trị đau nhức xương khớp Glucosamine Or
 
 5. Thuốc chữa trị đau nhức xương khớp Habelric dành riêng cho người già
 --------
+
 chữa đau nhức xương khớp cho người già bằng thuốc Habelric của Mỹ
 Habelric là thuốc điều trị đau nhức xương khớp có nguồn gốc xuất xứ từ Mỹ. Sản phẩm được sản xuất trên dây chuyền hiện đại, được y bác sĩ đánh giá là an toàn đối với thể chất cũng như không gây nên tác dụng phụ. Thuốc có lợi ích giảm đau nhức vô cùng nhanh chóng chỉ sau vào lần sử dụng và bổ sung nhiều dòng dưỡng chất thiết yếu cho xương khớp.
 Thành phần:
@@ -148,16 +157,20 @@ Thành phần:
 •	Gelatin
 •	…
 Công dụng:
+
 •	Kích thích tái tạo lại chất nhờn giúp bôi trơn sụn khớp, từ đấy một số khớp xương sẽ hoạt động linh hoạt và dẻo dai trở lại.
 •	Đẩy lùi một số cơn đau nhức do các bệnh lý gây nên như viêm xương khớp, thoái hóa khớp,…
 •	Bổ sung canxi cho cơ thể giúp giúp đỡ điều trị căn bệnh thiếu canxi, loãng xương,…
 
 giải pháp dùng:
+
 •	Uống hai viên vào sau mỗi bữa ăn chính
 •	Không dùng sản phẩm cho một số người dị ứng với thành phần trong thuốc, trẻ em chưa đủ 18 tuổi.
 Giá thành tham khảo: Thuốc thăm khám đau nhức xương khớp dành riêng cho người già Habelric của Mỹ được bán trên thị trường với chi phí khoảng 890.000 VNĐ/hộp.
+
 6.  Thuốc chữa đau nhức xương khớp Jointlab dành riêng cho người già
 --------
+
 Thuốc Jointlab có công dụng bớt đau xương khớp quá hiệu quả chỉ sau thời gian rất ngắn sử dụng
 Jointlab là thuốc chữa trị đau nhức xương khớp và thoát vị đĩa đệm mang lại thành công vô cùng mau chóng chỉ sau 10 ngày sử dụng. Sản phẩm được chiết xuất 100% tự nhiên cần vô cùng an toàn đối với tình huống sức khỏe, hoàn toàn có thể yên tâm khi sử dụng để chữa trị trường hợp đau nhức xương khớp cho người già.
 Thành phần:
@@ -170,6 +183,7 @@ Thành phần:
 •	…
 
 Thuốc chữa đau nhức xương khớp Jointlab dành riêng cho người già
+
 Công dụng:
 •	Đẩy lùi kịp thời một số cơn đau nhức cũng như sưng viêm tại xương khớp do giai đoạn thoái hóa đĩa đệm gây.
 •	Trả lời các dưỡng chất cần thiết cho cơ thể, tăng trao đổi chất cũng như giúp đỡ làm cho lành một số sụn khớp mắc tổn thương. Từ đó, ngăn chặn quá trình thoái hóa khớp tiếp tục diễn ra khiến tình trạng bệnh trở buộc phải tồi tệ hơn.
@@ -177,6 +191,7 @@ Công dụng:
 phương pháp dùng:
 •	dùng 2 lần/ngày, mỗi lần một viên.
 Giá thành tham khảo: Trên thị trường có bán sản phẩm thuốc thăm khám đau nhức xương khớp Jointlab dành cho người già với mức phí khoảng 1.190.000 VNĐ/hộp.
+
 7. Viêm khớp Tâm Bình trị đau nhức xương khớp cho người già
 --------
 Viêm khớp Tâm Bình giảm đau xương khớp dành cho người già
