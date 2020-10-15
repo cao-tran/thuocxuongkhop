@@ -2,15 +2,15 @@
 TỔ YẾN & SỨC KHỎE
 ==================================================
 
-.. image:: /img/yen43.png
+.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(17).jpg
 
-.. _toyen:
+.. _nguyen-nhan:
 
 .. toctree::
    :maxdepth: 2
    :glob:
 
-   01-cong-dung-tu-yen
+   nguyen-nhan
    
 
 .. _toyenvoiphunu:
