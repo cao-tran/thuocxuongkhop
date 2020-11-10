@@ -29,10 +29,10 @@ Do nguyên nhân khác: thời tiết lạnh, tập thể thao quá mức, lao �
 Có nhiều cách chữa trị đau nhức xương khớp, theo chúng tôi tùy từng chứng bệnh cụ thể mà có những phương pháp điều trị riêng
 Nếu chỉ đau nhức mà vẫn vận động làm việc được thì nên dùng thuốc xoa bóp hoặc bấm huyệt, hoặc thủy châm, hoặc châm cứu
 Trường hợp đau nhức mà vẫn đi làm được thì bạn nên dùng thuốc xương khớp của malaysia
-Xem:
-_`thuốc xương khớp malaysia <http://caycohoaqua.webflow.io/posts/mujarhabat-kapsul-thuoc-xuong-khop-malaysia>`_
+Xem
+`thuốc xương khớp malaysia <http://caycohoaqua.webflow.io/posts/mujarhabat-kapsul-thuoc-xuong-khop-malaysia>`_
 
-.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do (25).jpg
+.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(25).jpg
 
 Nếu bị mức mà không vận động được thì nên kết hợp các bài thuốc để chữa trị: Như uống thuốc, châm cứu, thủy châm, đắp thuốc, xoa bóp, bấm huyệt
 
@@ -40,11 +40,19 @@ Xem tiếp bài viết
 Cách chữa đau nhức xương khớp bằng thảo dược
 Cách chữa đau nhức xương khớp bằng thuốc xương khớp malaysia
 
-Video: 
+Video
 
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Xipxd6D0v4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+
+`thuốc xương khớp malaysia <http://caycohoaqua.webflow.io/posts/mujarhabat-kapsul-thuoc-xuong-khop-malaysia>`_
 
 .. note:: Liên hệ Thảo mộc HHT - Điện thoại: 0964.421.551 - 0932.340.345
-.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(9)jpg
+.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(9).jpg
 
 #trích nguồn từ internet
 
